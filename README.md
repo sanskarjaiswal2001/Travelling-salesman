@@ -5,7 +5,7 @@ Brute force approach is used to get the solution, which is limited to smaller nu
 
 This limitation is taken care of in [The Travelling Salesman problem using Genetic Algorithm](https://github.com/sanskarjaiswal2001/Travelling-Salesman-Genetic-Algorithm).
 
-**Try it out here : ** [The Travelling Salesman problem using lexicography](https://sanskarjaiswal2001.github.io/Travelling-salesman-lexicography/)
+**Try it out here :** [The Travelling Salesman problem using lexicography](https://sanskarjaiswal2001.github.io/Travelling-salesman-lexicography/)
 
 **Screenshot:**
 
