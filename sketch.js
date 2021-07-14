@@ -1,6 +1,6 @@
 //Travelling salesman
 var cities = [];
-var totalCities = 5;
+var totalCities = 6;
 var sequence = [];
 var totalPermutations;
 var count = 0;
