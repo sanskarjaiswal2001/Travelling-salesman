@@ -74,7 +74,7 @@ function draw()
   }
   textSize(32);
   fill(255);
-  var percent = 100 * (count / totalPermutations) + 0.84;
+  var percent = 100 * (count / totalPermutations) + 0.14;
   text(nf(percent, 0, 2) + "% completed", 20, height / 2 - 50); // nf = numberformat
   nextSequence();
 }
